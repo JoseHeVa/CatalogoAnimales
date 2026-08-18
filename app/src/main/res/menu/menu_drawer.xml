@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Guardar en res/menu/menu_drawer.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_favoritos"
+            android:title="Favoritos" />
+        <item
+            android:id="@+id/nav_ajustes"
+            android:title="Ajustes" />
+    </group>
+</menu>

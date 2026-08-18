@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\compa\\.gradle\\daemon\\8.4\\com.example.catalogoanimales.app-merged_res-38:\\menu_menu_drawer.xml.flat",
+        "source": "C:\\Users\\compa\\.gradle\\daemon\\8.4\\com.example.catalogoanimales.app-main-40:\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\compa\\.gradle\\daemon\\8.4\\com.example.catalogoanimales.app-merged_res-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\compa\\.gradle\\daemon\\8.4\\com.example.catalogoanimales.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\compa\\.gradle\\daemon\\8.4\\com.example.catalogoanimales.app-merged_res-38:\\layout_item_animal.xml.flat",
+        "source": "C:\\Users\\compa\\.gradle\\daemon\\8.4\\com.example.catalogoanimales.app-main-40:\\layout\\item_animal.xml"
+    },
+    {
+        "merged": "C:\\Users\\compa\\.gradle\\daemon\\8.4\\com.example.catalogoanimales.app-merged_res-38:\\layout_fragment_lista.xml.flat",
+        "source": "C:\\Users\\compa\\.gradle\\daemon\\8.4\\com.example.catalogoanimales.app-main-40:\\layout\\fragment_lista.xml"
+    },
+    {
+        "merged": "com.example.catalogoanimales.app-merged_res-38:/layout_item_animal.xml.flat",
+        "source": "com.example.catalogoanimales.app-main-40:/layout/item_animal.xml"
+    }
+]
